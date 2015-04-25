@@ -1,0 +1,9 @@
+/build
+/target
+/.sonar
+/.gradle
+/.settings
+/bin
+/.idea
+/out
+/classes
